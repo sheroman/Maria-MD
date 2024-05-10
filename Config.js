@@ -7,7 +7,7 @@ global.ownernumber = [ process.env.OWNER_NUMBER || "Anifowose Abiola"],
 global.ownername = process.env.OWNER_NAME || "Anifowose Abiola",
 global.ytname = "YT: SheroBotz.inc"
 global.socialm = "GitHub: sheroman"
-global.location = "Indian"
+global.location = "Nigeria"
 
 global.botname = process.env.BOTNAME || "Shero-𝐌𝐃",//name of the bot
 
@@ -17,7 +17,7 @@ global.packname = 'Sticker By'
 global.author = process.env.AUTHOR || "💙𓆩‎✘Mr Sheroman𓆪_✰",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "Shero botz inc."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/Gw2hAzyNgzK63cX4CQos3l'
